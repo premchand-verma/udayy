@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Udayy</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="login">Login</string>
+    <string name="please_enter_url">Please enter url</string>
+    <string name="download">Download</string>
+    <string name="folder_name">Folder name</string>
+    <string name="file_name">File name</string>
+</resources>
